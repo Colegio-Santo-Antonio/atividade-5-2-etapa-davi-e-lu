@@ -13,7 +13,7 @@ soma = sum(pares) + sum(impares)
 if int(soma/10) == soma/10:
   print("Cartão válido")
 else:
-  print("Cartâo inválido")
+  print("Cartão inválido")
 # TODO: implemente a verificação pelo algoritmo de Luhn
 # Siga as dicas do README.
 
